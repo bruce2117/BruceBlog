@@ -1,0 +1,16 @@
+.header{
+    width:100%;
+    background-color: #0088c3;
+    overflow: hidden;
+    line-height: 60px;
+}
+.header ul li {
+    float: left;
+    width: 20%;
+}
+.header ul li a{
+    display: block;
+    width: 100%;
+    color: #ffffff;
+    text-align: center;
+}
